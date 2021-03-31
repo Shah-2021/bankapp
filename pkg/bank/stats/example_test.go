@@ -25,6 +25,10 @@ func ExampleAvg() {
 
 	
 }
+
+
+
+
 /*
 type Payment struct{
 	ID int
